@@ -1,0 +1,65 @@
+body{
+    background-image:url('https://wallpaperaccess.com/full/2562648.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.img{
+    border-radius: 50%;
+    box-shadow: 0px 0px 20px rgb(211, 12, 78);
+}
+.name{
+    text-shadow: 0px 0px 10px black;
+}
+.heading{
+   color: crimson;
+}
+.head{
+    color: darkmagenta;
+    text-shadow: 0px 0px 10px black;
+}
+.container{
+    background-color: darkcyan;
+    width: 800px;
+    height: 500px;
+    box-shadow: 0px 0px 10px black;
+}
+.max{
+    font-size: 30px;
+    text-align: justify;
+    padding: 10px;
+}
+.style{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.text{
+    text-decoration: brown;
+}
+.color{
+    color: rgb(21, 238, 220);
+}
+.color2{
+    color: crimson;
+}
+.carousel-inner {
+    width: 600px;
+    height: 500px;
+}
+.images{
+    box-shadow: 0px 0px 10px black;
+}
+ul li{
+    list-style-type: none;
+}
+.font{
+    font-size: 40px;
+}
+.title{
+    text-shadow: 0px 0px 10px rgb(238, 17, 90);
+}
+.bg-color{
+    background-color: grey;
+}
+.card{
+    box-shadow: 0px 0px 10px white;
+}
